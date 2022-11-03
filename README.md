@@ -1,2 +1,3 @@
 # terraform-docker-configuration
- Configuring Terraform to Interact with Docker. Docker container creation.
+
+# Quick Lab: Configuring Terraform to Interact with Docker. Docker container creation.
